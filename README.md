@@ -63,7 +63,7 @@ I build real-world applications and developer tools — focused on performance, 
 
 ## 📊 GitHub Stats
 
-![Ajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajithantonnie&show_icons=true&theme=radium)
+![Ajith's GitHub stats](https://streak-stats.demolab.com?user=ajithantonnie&theme=radium)
 
 ---
 
