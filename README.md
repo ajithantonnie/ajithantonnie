@@ -30,7 +30,7 @@ I build real-world applications and developer tools — focused on performance, 
 
 ---
 
-### 🛡️ [BootGuard](https://github.com/ajithantonnie/bootguard) *(In Progress)*
+### 🛡️ [BootGuard](https://github.com/ajithantonnie/bootguard) *(Available on GitHub)*
 **A lightning-fast CLI tool for Spring Boot developers**
 
 → Detects critical misconfigurations instantly:
