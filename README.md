@@ -30,7 +30,7 @@ I build real-world applications and developer tools — focused on performance, 
 
 ---
 
-### 🛡️ BootGuard *(In Progress)*
+### 🛡️ [BootGuard](https://github.com/ajithantonnie/bootguard) *(In Progress)*
 **A lightning-fast CLI tool for Spring Boot developers**
 
 → Detects critical misconfigurations instantly:
@@ -46,7 +46,7 @@ I build real-world applications and developer tools — focused on performance, 
 
 ## 🔨 Currently Building
 
-* 🚀 **BootGuard** — Dev-first security CLI tool
+* 🚀 **[BootGuard](https://github.com/ajithantonnie/bootguard)** — Dev-first security CLI tool
 * 📦 **BillBox** — Iterating based on testing feedback
 * 🤖 **AI-powered developer utilities** — Experimenting with AI integration
 
